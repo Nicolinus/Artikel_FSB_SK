@@ -16,7 +16,7 @@
     {
       "id": "winterjacke",
       "name": "Winterjacke",
-      "price": 50,
+      "price": 60,
       "unit": {
         "quantity": 1,
         "uom": "Stück",
@@ -32,6 +32,11 @@
           "name": "Violett",
           "image": "winter_artikel/winterjacke-violett.png",
           "available": 0
+        },
+        {
+          "name": "Bernstein",
+          "image": "winter_artikel/winterjacke-bernstein.webp",
+          "available": 1
         }
       ]
     }

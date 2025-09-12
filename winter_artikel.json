@@ -37,11 +37,6 @@
           "name": "Bernstein",
           "image": "winter_artikel/winterjacke-bernstein.webp",
           "available": 1
-        },
-        {
-          "name": "Obsidian",
-          "image": "",
-          "available": 1
         }
       ]
     }

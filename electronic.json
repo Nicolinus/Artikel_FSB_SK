@@ -51,7 +51,10 @@
       "category": "notebooks",
       "active": true,
       "order": 1,
-      "aliases": ["ThinkPad X1", "X1 Carbon"],
+      "aliases": [
+        "ThinkPad X1",
+        "X1 Carbon"
+      ],
       "variants": [
         {
           "name": "i5/8GB/256GB",
@@ -73,7 +76,7 @@
     {
       "id": "dell-xps-13",
       "name": "Dell XPS 13",
-      "price": 1199.00,
+      "price": 1199,
       "unit": {
         "quantity": 1,
         "uom": "Stück",
@@ -83,12 +86,14 @@
       "category": "notebooks",
       "active": true,
       "order": 2,
-      "aliases": ["XPS 13"],
+      "aliases": [
+        "XPS 13"
+      ],
       "variants": [
         {
           "name": "Silber",
-          "image": "xps-13-silver.jpg",
-          "available": 4
+          "image": "dell-xps-13-silber.jpg",
+          "available": 6
         },
         {
           "name": "Schwarz",
@@ -100,7 +105,7 @@
     {
       "id": "iphone-15-pro",
       "name": "iPhone 15 Pro",
-      "price": 1199.00,
+      "price": 1199,
       "unit": {
         "quantity": 1,
         "uom": "Stück",
@@ -110,7 +115,9 @@
       "category": "smartphones",
       "active": true,
       "order": 3,
-      "aliases": ["Apple iPhone 15 Pro"],
+      "aliases": [
+        "Apple iPhone 15 Pro"
+      ],
       "variants": [
         {
           "name": "128GB Titan Blau",
@@ -142,7 +149,7 @@
     {
       "id": "samsung-galaxy-s24",
       "name": "Samsung Galaxy S24 Ultra",
-      "price": 1399.00,
+      "price": 1399,
       "unit": {
         "quantity": 1,
         "uom": "Stück",
@@ -152,7 +159,10 @@
       "category": "smartphones",
       "active": true,
       "order": 4,
-      "aliases": ["Galaxy S24 Ultra", "S24 Ultra"],
+      "aliases": [
+        "Galaxy S24 Ultra",
+        "S24 Ultra"
+      ],
       "variants": [
         {
           "name": "256GB Schwarz",
@@ -184,7 +194,10 @@
       "category": "zubehoer",
       "active": true,
       "order": 5,
-      "aliases": ["USB-C Cable", "Type-C Kabel"],
+      "aliases": [
+        "USB-C Cable",
+        "Type-C Kabel"
+      ],
       "variants": [
         {
           "name": "1m",
@@ -206,7 +219,7 @@
     {
       "id": "lg-ultrawide-34",
       "name": "LG UltraWide 34\" Monitor",
-      "price": 599.00,
+      "price": 599,
       "unit": {
         "quantity": 1,
         "uom": "Stück",
@@ -216,7 +229,10 @@
       "category": "monitore",
       "active": true,
       "order": 6,
-      "aliases": ["LG 34WN80C", "UltraWide 34"],
+      "aliases": [
+        "LG 34WN80C",
+        "UltraWide 34"
+      ],
       "variants": [
         {
           "name": "Standard",
@@ -228,7 +244,7 @@
     {
       "id": "dell-u2723de",
       "name": "Dell UltraSharp U2723DE",
-      "price": 699.00,
+      "price": 699,
       "unit": {
         "quantity": 1,
         "uom": "Stück",
@@ -238,7 +254,9 @@
       "category": "monitore",
       "active": true,
       "order": 7,
-      "aliases": ["UltraSharp 27"],
+      "aliases": [
+        "UltraSharp 27"
+      ],
       "variants": [
         {
           "name": "27\" 4K",
@@ -250,7 +268,7 @@
     {
       "id": "airpods-pro-2",
       "name": "AirPods Pro 2. Generation",
-      "price": 279.00,
+      "price": 279,
       "unit": {
         "quantity": 1,
         "uom": "Stück",
@@ -260,7 +278,9 @@
       "category": "audio",
       "active": true,
       "order": 8,
-      "aliases": ["AirPods Pro 2"],
+      "aliases": [
+        "AirPods Pro 2"
+      ],
       "variants": [
         {
           "name": "USB-C",
@@ -277,7 +297,7 @@
     {
       "id": "sony-wh1000xm5",
       "name": "Sony WH-1000XM5",
-      "price": 379.00,
+      "price": 379,
       "unit": {
         "quantity": 1,
         "uom": "Stück",
@@ -287,7 +307,10 @@
       "category": "audio",
       "active": true,
       "order": 9,
-      "aliases": ["WH1000XM5", "Sony XM5"],
+      "aliases": [
+        "WH1000XM5",
+        "Sony XM5"
+      ],
       "variants": [
         {
           "name": "Schwarz",
@@ -319,7 +342,10 @@
       "category": "speicher",
       "active": true,
       "order": 10,
-      "aliases": ["T7 SSD", "Portable SSD"],
+      "aliases": [
+        "T7 SSD",
+        "Portable SSD"
+      ],
       "variants": [
         {
           "name": "500GB Grau",
@@ -351,7 +377,10 @@
       "category": "speicher",
       "active": true,
       "order": 11,
-      "aliases": ["USB Stick", "Flash Drive"],
+      "aliases": [
+        "USB Stick",
+        "Flash Drive"
+      ],
       "variants": [
         {
           "name": "32GB",
@@ -378,7 +407,7 @@
     {
       "id": "logitech-mx-master-3s",
       "name": "Logitech MX Master 3S",
-      "price": 109.00,
+      "price": 109,
       "unit": {
         "quantity": 1,
         "uom": "Stück",
@@ -388,7 +417,10 @@
       "category": "zubehoer",
       "active": true,
       "order": 12,
-      "aliases": ["MX Master 3S", "MX Master"],
+      "aliases": [
+        "MX Master 3S",
+        "MX Master"
+      ],
       "variants": [
         {
           "name": "Graphit",
@@ -405,7 +437,7 @@
     {
       "id": "ipad-pro-11",
       "name": "iPad Pro 11\"",
-      "price": 949.00,
+      "price": 949,
       "unit": {
         "quantity": 1,
         "uom": "Stück",
@@ -415,7 +447,9 @@
       "category": "notebooks",
       "active": false,
       "order": 13,
-      "aliases": ["iPad Pro"],
+      "aliases": [
+        "iPad Pro"
+      ],
       "variants": [
         {
           "name": "128GB WiFi",
@@ -432,7 +466,7 @@
     {
       "id": "macbook-air-m2",
       "name": "MacBook Air M2",
-      "price": 1299.00,
+      "price": 1299,
       "unit": {
         "quantity": 1,
         "uom": "Stück",
@@ -442,7 +476,10 @@
       "category": "notebooks",
       "active": true,
       "order": 14,
-      "aliases": ["MBA M2", "Air M2"],
+      "aliases": [
+        "MBA M2",
+        "Air M2"
+      ],
       "variants": [
         {
           "name": "Mitternacht",
@@ -469,7 +506,7 @@
     {
       "id": "webcam-logitech-brio",
       "name": "Logitech Brio 4K",
-      "price": 199.00,
+      "price": 199,
       "unit": {
         "quantity": 1,
         "uom": "Stück",
@@ -479,7 +516,10 @@
       "category": "zubehoer",
       "active": true,
       "order": 15,
-      "aliases": ["Brio Webcam", "4K Webcam"],
+      "aliases": [
+        "Brio Webcam",
+        "4K Webcam"
+      ],
       "variants": [
         {
           "name": "Standard",
@@ -490,4 +530,3 @@
     }
   ]
 }
-

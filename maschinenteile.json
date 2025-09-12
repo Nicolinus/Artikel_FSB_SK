@@ -1,0 +1,33 @@
+{
+  "meta": {
+    "version": "1",
+    "ausgabedatum": "2025-09-12",
+    "currency": "EUR",
+    "vat_included": true
+  },
+  "categories": [],
+  "products": [
+    {
+      "id": "kugelleger",
+      "name": "Kugelleger",
+      "price": 10.5,
+      "unit": {
+        "quantity": 1,
+        "uom": "Stück",
+        "packaging": null,
+        "display": "pro Stück"
+      },
+      "category": "",
+      "active": true,
+      "order": 10,
+      "aliases": [],
+      "variants": [
+        {
+          "name": "Standard",
+          "image": "",
+          "available": 13
+        }
+      ]
+    }
+  ]
+}

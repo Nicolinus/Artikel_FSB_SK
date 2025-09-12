@@ -1,0 +1,39 @@
+{
+  "meta": {
+    "version": "1",
+    "ausgabedatum": "2025-09-12",
+    "currency": "EUR",
+    "vat_included": true
+  },
+  "categories": [
+    {
+      "id": "jacken",
+      "name": "Jacken",
+      "order": 0
+    }
+  ],
+  "products": [
+    {
+      "id": "winterjacke",
+      "name": "Winterjacke",
+      "price": 50,
+      "unit": {
+        "quantity": 1,
+        "uom": "Stück",
+        "packaging": null,
+        "display": "pro Stück"
+      },
+      "category": "jacken",
+      "active": true,
+      "order": 10,
+      "aliases": [],
+      "variants": [
+        {
+          "name": "Violett",
+          "image": "",
+          "available": 0
+        }
+      ]
+    }
+  ]
+}

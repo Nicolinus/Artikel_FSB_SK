@@ -24,7 +24,7 @@
       "variants": [
         {
           "name": "Standard",
-          "image": "",
+          "image": "maschinenteile/kugelleger-standard.jpg",
           "available": 13
         }
       ]
